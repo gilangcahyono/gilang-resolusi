@@ -2,6 +2,9 @@ RENCANA BELAJAR
 
 - HTML
 - CSS
-- JaaScript
+- JavaScript
 - Node JS
+  * expressjs
+  * mvc
+  * next js
 - MySQL
