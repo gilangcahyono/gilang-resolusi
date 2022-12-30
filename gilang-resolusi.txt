@@ -1,0 +1,4 @@
+GILANG RESOLUSI
+- Belajar API
+- Belajar Node JS
+- OTW Fullstack JS
