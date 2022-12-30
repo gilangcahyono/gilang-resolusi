@@ -1,0 +1,10 @@
+RENCANA BELAJAR
+
+- HTML
+- CSS
+- JavaScript
+- Node JS
+  * expressjs
+  * mvc
+  * next js
+- MySQL
