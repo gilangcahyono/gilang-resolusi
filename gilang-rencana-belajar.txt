@@ -1,0 +1,7 @@
+RENCANA BELAJAR
+
+- HTML
+- CSS
+- JaaScript
+- Node JS
+- MySQL
